@@ -1,0 +1,48 @@
+[23-Dec-2022 06:02:31 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Dec-2022 06:02:45 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 06:14:55 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 06:16:18 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 06:17:00 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 06:17:28 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 06:17:31 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 06:17:41 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 07:07:06 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 07:12:45 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 07:13:08 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[23-Dec-2022 07:13:27 UTC] PHP Deprecated:  Function WP_Query was called with an argument that is <strong>deprecated</strong> since version 3.1.0! <code>caller_get_posts</code> is deprecated. Use <code>ignore_sticky_posts</code> instead. in /home/softgetix2/public_html/blog/wp-includes/functions.php on line 5667
+[27-Dec-2022 06:04:04 UTC] PHP Warning:  require(/home/softgetix2/public_html/blog/blog/wp-blog-header.php): Failed to open stream: No such file or directory in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:04:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/softgetix2/public_html/blog/blog/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/softgetix2/public_html/blog/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:04:18 UTC] PHP Warning:  require(/home/softgetix2/public_html/blog/blog/wp-blog-header.php): Failed to open stream: No such file or directory in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:04:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/softgetix2/public_html/blog/blog/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/softgetix2/public_html/blog/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:10:26 UTC] PHP Warning:  require(/home/softgetix2/public_html/blog/blog/wp-blog-header.php): Failed to open stream: No such file or directory in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:10:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/softgetix2/public_html/blog/blog/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/softgetix2/public_html/blog/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:11:48 UTC] PHP Warning:  require(/home/softgetix2/public_html/blog/blog/wp-blog-header.php): Failed to open stream: No such file or directory in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:11:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/softgetix2/public_html/blog/blog/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/softgetix2/public_html/blog/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:11:49 UTC] PHP Warning:  require(/home/softgetix2/public_html/blog/blog/wp-blog-header.php): Failed to open stream: No such file or directory in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:11:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/softgetix2/public_html/blog/blog/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/softgetix2/public_html/blog/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:12:51 UTC] PHP Warning:  require(/home/softgetix2/public_html/blog/blog/wp-blog-header.php): Failed to open stream: No such file or directory in /home/softgetix2/public_html/blog/index.php on line 17
+[27-Dec-2022 06:12:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/softgetix2/public_html/blog/blog/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/softgetix2/public_html/blog/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/softgetix2/public_html/blog/index.php on line 17
+[11-Jan-2023 11:53:31 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/softgetix2/public_html/blog/wp-content/themes/blog-softgetix/index.php on line 18
+[18-Jan-2023 13:11:56 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/softgetix2/public_html/blog/wp-content/themes/blog-softgetix/template-parts/content.php on line 112
+[18-Jan-2023 13:12:04 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/softgetix2/public_html/blog/wp-content/themes/blog-softgetix/template-parts/content.php on line 112
+[18-Jan-2023 13:12:32 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/softgetix2/public_html/blog/wp-content/themes/blog-softgetix/template-parts/content.php on line 112
+[18-Jan-2023 13:13:15 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/softgetix2/public_html/blog/wp-content/themes/blog-softgetix/template-parts/content.php on line 112
+[18-Jan-2023 13:13:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/softgetix2/public_html/blog/wp-content/themes/blog-softgetix/template-parts/content.php on line 115

@@ -1,0 +1,14 @@
+23-12-2022 05:53:31 - ERROR - 7.5.9 - 33.2 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails/blocks (1) - 
+23-12-2022 05:53:31 - ERROR - 7.5.9 - 33.2 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails (1) - 
+23-12-2022 05:53:32 - ERROR - 7.5.9 - 26.8 MB/40 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails/blocks (1) - 
+23-12-2022 05:53:32 - ERROR - 7.5.9 - 26.8 MB/40 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails (1) - 
+23-12-2022 05:53:46 - ERROR - 7.5.9 - 31.3 MB/40 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails/blocks (1) - 
+23-12-2022 05:53:46 - ERROR - 7.5.9 - 31.3 MB/40 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails (1) - 
+23-12-2022 05:54:46 - ERROR - 7.5.9 - 33.4 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails/blocks (1) - 
+23-12-2022 05:54:46 - ERROR - 7.5.9 - 33.4 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails (1) - 
+23-12-2022 05:54:48 - ERROR - 7.5.9 - 33.4 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails/blocks (1) - 
+23-12-2022 05:54:48 - ERROR - 7.5.9 - 33.4 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails (1) - 
+23-12-2022 05:54:50 - ERROR - 7.5.9 - 26.8 MB/40 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails/blocks (1) - 
+23-12-2022 05:54:50 - ERROR - 7.5.9 - 26.8 MB/40 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails (1) - 
+23-12-2022 05:55:53 - ERROR - 7.5.9 - 33.2 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails/blocks (1) - 
+23-12-2022 05:55:53 - ERROR - 7.5.9 - 33.2 MB/256 MB - blog_2k23 > Missing block.php file in /home/softgetix2/public_html/blog/wp-content/plugins/newsletter/emails (1) - 
