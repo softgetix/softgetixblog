@@ -1,0 +1,2 @@
+# softgetixblog
+softgetix blogs
