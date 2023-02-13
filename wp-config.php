@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'softgetix_blog_2k23' );
 
 /** Database username */
-define( 'DB_USER', 'softgetix-blog-user-2k23' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '0)5,.MixDIvI' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
