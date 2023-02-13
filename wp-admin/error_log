@@ -1,3 +1,0 @@
-[19-Dec-2022 11:38:25 UTC] WordPress database error Unknown column 'bsoft_' in 'field list' for query SELECT bsoft_
-[23-Dec-2022 05:59:30 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/softgetix2/public_html/blog/wp-admin/includes/post.php on line 1534
-[23-Dec-2022 06:00:13 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/softgetix2/public_html/blog/wp-admin/includes/post.php on line 1534
