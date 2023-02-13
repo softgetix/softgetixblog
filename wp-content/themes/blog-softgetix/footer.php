@@ -125,7 +125,7 @@
   </div>
 
   <div class="text-gray-700 text-center p-4" style="background-color: #e9e9e9;">
-  © 2022 All Rights Reserved
+  © 2022 All Rights Reserved test
     <a class="text-lg text-sOrange-800 font-normal" href="https://softgetix.com/">SoftGetix Inc.</a>
   </div>
 </footer>
